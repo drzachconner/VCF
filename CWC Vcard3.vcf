@@ -9,24 +9,26 @@ EMAIL;TYPE=EMAIL:info@cultivatewellnesschiro.com
 TEL;WORK;VOICE:(248) 221-1118
 ADR;CHARSET=utf-8:;;Coming Soon to Troy, MI;;;;
 URL;TYPE=WEBSITE:https://cultivatewellnesschiro.com
-item2.URL;type=pref:https://cultivatewellnesschiro.com/request-an-appointment
-item2.X-ABLabel:Request an Appointment
-item3.URL:https://cultivatewellnesschiro.com/events-workshops
-item3.X-ABLabel:Events & Workshops
-item4.URL:instagram.com/cultivatewellnesschiro/events-workshops
-item4.X-ABLabel:Instagram
-item5.URL:tiktok.com/@cultivatewellnesschiro
-item5.X-ABLabel:TikTok
-item6.URL:facebook.com/cultivatewellnesschiro/
-item6.X-ABLabel:Facebook
-item7.URL:youtube.com/@cultivatewellnesschiropractic
-item7.X-ABLabel:YouTube
-item8.URL:linkedin.com/company/cultivate-wellness-chiropractic
-item8.X-ABLabel:LinkedIn
-item9.URL:twitter.com/cultivatewchiro
-item9.X-ABLabel:X (Twitter)
-item10.URL:pinterest.com/cultivatewellnesschiro
-item10.X-ABLabel:Pinterest
-item11.URL:https://snapchat.com/add/cultivatewchiro
-item11.X-ABLabel:SnapChat
+item2.URL;type=pref:https://cultivatewellnesschiro.com/guides
+item2.X-ABLabel:Free Guides For Parents
+item3.URL;type=pref:https://cultivatewellnesschiro.com/request-an-appointment
+item3.X-ABLabel:Request an Appointment
+item4.URL:https://cultivatewellnesschiro.com/events-workshops
+item4.X-ABLabel:Events & Workshops
+item5.URL:instagram.com/cultivatewellnesschiro/events-workshops
+item5.X-ABLabel:Instagram
+item6.URL:tiktok.com/@cultivatewellnesschiro
+item6.X-ABLabel:TikTok
+item7.URL:facebook.com/cultivatewellnesschiro/
+item7.X-ABLabel:Facebook
+item8.URL:youtube.com/@cultivatewellnesschiropractic
+item8.X-ABLabel:YouTube
+item9.URL:linkedin.com/company/cultivate-wellness-chiropractic
+item9.X-ABLabel:LinkedIn
+item10.URL:twitter.com/cultivatewchiro
+item10.X-ABLabel:X (Twitter)
+item11.URL:pinterest.com/cultivatewellnesschiro
+item11.X-ABLabel:Pinterest
+item12.URL:https://snapchat.com/add/cultivatewchiro
+item12.X-ABLabel:SnapChat
 END:VCARD
